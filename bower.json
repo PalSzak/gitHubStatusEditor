@@ -1,0 +1,8 @@
+{
+  "name": "gitHubStatusEditor",
+
+  "dependencies": {
+      "bootstrap": "~3.2.0",
+      "angular": "^1.3.0-beta.15"
+  }
+}

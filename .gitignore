@@ -1,2 +1,4 @@
 gitHubStatusEditor.sublime-workspace
 .vagrant
+.netrc
+public/bower_components
